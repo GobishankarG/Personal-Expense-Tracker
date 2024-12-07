@@ -1,4 +1,4 @@
-A simple console-based Personal Expense Tracker built with Python. This project allows users to record their daily expenses, categorize them, view summaries, and track their spending patterns over time. It's designed for beginners to intermediate learners who want to practice core Python skills and create a foundational project that can be expanded with more features, such as database integration or a web interface. 
+A simple console-based Personal Expense Tracker built with Python. This project allows users to record their daily expenses, categorize them, view summaries, and track their spending patterns over time.
 
 Features:
 
